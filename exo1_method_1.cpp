@@ -1,3 +1,4 @@
+//merge two arrays into one array using static allocation.
 #include<iostream>
 using namespace std;
 
