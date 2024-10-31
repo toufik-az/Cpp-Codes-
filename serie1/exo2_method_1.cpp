@@ -1,6 +1,7 @@
 /*read an integer array A [N]
   return the minimum and the maximum values of A and their respective indices*/
-  
+
+
   //static allocation.
 
 #include<iostream>
