@@ -3,4 +3,6 @@
  
  # C++ Exercise
 
-This repository contains various C++ Programs use static allocation and dynamic allocation.
+This repository contains various C++ Programs:
+
+-Serie 1: Exercises with static and dynamic allocation.
