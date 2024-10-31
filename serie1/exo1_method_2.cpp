@@ -1,4 +1,4 @@
-//merge two arrays into one array using dynamic allocation
+//merge two arrays into one array using dynamic allocation 
 #include<iostream>
 using namespace std;
 
