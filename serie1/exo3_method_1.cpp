@@ -1,4 +1,4 @@
-//static allocation
+//static allocation.
 
 #include<iostream>
 using namespace std;
